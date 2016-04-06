@@ -1,0 +1,18 @@
+{ "books": [{
+  "title": "Cool Things About My Exes That Mean Nothing",
+  "summary": "Often what initially attracts us to someone, doesn't end up mattering very much at all. And that's exactly what this zine is about. Becky and friends compiled the things they remember about various old flames: His handlebar mustache, her ability to weld, or the fact that he was from Alaska. Things like trying out for Jeopardy, or being a male ballerina, can attract you to someone, but in the end, you realize they're just novelties.",
+  "price": "5.99",
+  "issues": 1,
+  "authors": "Becky Morton",
+  "cover": "https://bitchmedia.org/sites/default/files/u71596/shotgunseamstress-8-cover.jpg"
+  },
+  {
+    "title": "The Prince Zine",
+    "summary": "Everything you've ever wanted to know about the artist currently known as Prince. Looking into fame culture, gender, and sexuality while still having fun along the way.",
+    "price": "3.00",
+    "issues": "1",
+    "authors": "Joshua James Amberson",
+    "cover": "http://www.skylightbooks.com/sites/skylightbooks.com/files/prince_zine.jpg"
+  }
+
+]}

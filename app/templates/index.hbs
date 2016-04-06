@@ -1,0 +1,10 @@
+<div class="intro container">
+  <h1>Zine Market</h1>
+  <p>Find and subscribe to zines</p>
+</div>
+
+<div class="zine container">
+  {{#each model as |book|}}
+    {{book-tile book=book}}
+  {{/each}}
+</div>

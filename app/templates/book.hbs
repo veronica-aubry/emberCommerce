@@ -1,0 +1,16 @@
+<div class="container detail">
+
+  <div class="row">
+    <div class="col-md-6">
+      <img src="{{model.cover}}" width="300" height="400">
+    </div>
+    <div class="col-md-6">
+      <p><b>{{model.title}}</b></p>
+      <p>by {{model.author.name}}</p>
+      <p>${{model.price}}</p>
+      <p>Number of issues: {{model.issues}}</p>
+      <p>{{model.summary}}</p>
+      <button class="btn btn-primary" {{action 'addToCart' model}}>Add to Cart</button>
+    </div>
+  </div>
+</div>

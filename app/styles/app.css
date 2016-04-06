@@ -1,0 +1,19 @@
+.product {
+  width: 150px;
+  margin-left:20px;
+}
+
+.detail {
+  margin-top: 100px;
+  width: 800px;
+}
+
+.btn-primary {
+  background-color: #ff0080;
+  border-color: #ff0080;
+}
+
+.name {
+  font-size: 2em;
+  margin-right: 20px;
+}
