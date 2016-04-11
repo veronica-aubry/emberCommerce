@@ -1,6 +1,6 @@
 # Commerce
 
-E-Commerce website for fictional zine collective. Implements a cart service and dynamic routes.
+E-Commerce website for fictional zine collective.  Assignment goals were to create and implement a cart service and dynamic routes.
 
 ## Prerequisites
 
