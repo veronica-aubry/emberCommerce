@@ -1,7 +1,6 @@
 # Commerce
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+E-Commerce website for fictional zine collective. Implements a cart service and dynamic routes.
 
 ## Prerequisites
 
